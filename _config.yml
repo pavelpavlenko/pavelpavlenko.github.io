@@ -110,9 +110,11 @@ content:
         caption: October 2018 - Present
         quote: >
 
-        description: |
-          Sometimes I conduct seminars and trainings for students of Kyrgyz State Technical University named after I.Razzakov (KGUSTA)# this will include new lines to allow paragraphs
-          ![](/images/seminar.png){: width="80%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
+        description: | # this will include new lines to allow paragraphs
+          Sometimes I conduct seminars and trainings for students of Kyrgyz State Technical University named after I.Razzakov (KGUSTA) 
+          |
+          ![](/images/seminars/first.png){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
+          ![](/images/seminars/second.png){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
 
   - title: A Little More About Me
     layout: text
