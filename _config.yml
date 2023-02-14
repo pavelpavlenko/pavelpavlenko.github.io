@@ -99,6 +99,20 @@ content:
 
         description: | # this will include new lines to allow paragraphs
 
+  - title: volunteering # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Seminars and trainings
+        link:
+        # link_text: boringcompany.com
+        sub_title: Seminars and trainings for students
+        caption: October 2018 - Present
+        quote: >
+
+        description: |
+          Sometimes I conduct seminars and trainings for students of Kyrgyz State Technical University named after I.Razzakov (KGUSTA)# this will include new lines to allow paragraphs
+          ![](/images/seminar.png){: width="80%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
 
   - title: A Little More About Me
     layout: text
