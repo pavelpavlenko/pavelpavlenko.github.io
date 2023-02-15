@@ -95,8 +95,6 @@ content:
         title: National Academy of Science of Kyrgyz Republic, Institute of Automation and Information Technology
         caption: 2013 - 2016
         sub_title: Ph.D. System Analysis, Control & Information Processing
-        quote: > 
-
         description: | # this will include new lines to allow paragraphs
           Thesis Title: Development of an adaptive control system based on fuzzy logic and traffic modeling in a metropolis with information processing
 
@@ -104,10 +102,8 @@ content:
         title: Kyrgyz Technical University
         caption: 1997 - 2003
         sub_title: Engineer Automation and Management in Technical Systems
-        quote: >
-
         description: | # this will include new lines to allow paragraphs
-          I Developed an automated human resource management system 
+          Topic of the thesis: Automated personnel management system
 
   - title: Volunteering # Title for the section
     layout: list # Type of content section (list/text)
