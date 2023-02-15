@@ -93,8 +93,8 @@ content:
     content:
       - layout: left
         title: National Academy of Science of Kyrgyz Republic, Institute of Automation and Information Technology
-        caption: Ph.D. System Analysis, Control & Information Processing
-        sub_title: 2013 - 2016
+        caption: 2013 - 2016
+        sub_title: Ph.D. System Analysis, Control & Information Processing
         quote: > 
 
         description: | # this will include new lines to allow paragraphs
@@ -102,8 +102,8 @@ content:
 
       - layout: left
         title: Kyrgyz Technical University
-        caption: Engineer Automation and Management in Technical Systems
-        sub_title: 1997 - 2003
+        caption: 1997 - 2003
+        sub_title: Engineer Automation and Management in Technical Systems
         quote: >
 
         description: | # this will include new lines to allow paragraphs
