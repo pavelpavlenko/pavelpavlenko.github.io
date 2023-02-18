@@ -58,7 +58,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Driver alert system
         sub_title: Warning system for drivers about the presence of pedestrians using hogdescriptor
         caption: November 2014 - October 2015
