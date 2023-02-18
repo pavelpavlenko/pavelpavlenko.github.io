@@ -72,8 +72,8 @@ content:
           Skills: <mark>C++</mark> <mark>OpenCV</mark> <mark>Ubuntu</mark> <mark>Cmake</mark> <mark>Algorithms</mark> <mark>Arduino</mark> <mark>CubiBoard A20</mark> <mark>Gmock</mark> <mark>Hogdescriptor</mark> <mark>Multithreading</mark> <mark>Networking</mark>
                   
           ![](/images/projects/ped_hog.png){:width="80%"}{:style="display:block; margin-left:auto; margin-right:auto;"}
-          ![](/images/projects/sign.png){:width="80%"}{:style="display:block; margin-left:auto; margin-right:auto;"}
-          ![](/images/projects/sign_blink.png){:width="80%"}{:style="display:block; margin-left:auto; margin-right:auto;"}
+          ![](/images/projects/sign.jpg){:width="80%"}{:style="display:block; margin-left:auto; margin-right:auto;"}
+          ![](/images/projects/sign_blink.gif){:width="80%"}{:style="display:block; margin-left:auto; margin-right:auto;"}
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
