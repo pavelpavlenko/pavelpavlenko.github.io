@@ -64,13 +64,17 @@ content:
         caption: November 2014 - October 2015
         quote: >
           The system helps reduce the number of accidents at an unregulated intersection.
+
         description: | # this will include new lines to allow paragraphs
           I designed and developed a system that detects the presence of people at a pedestrian intersection and sends a signal to change the color of the light signal on the road sign (yellow and red).
           The system is completely autonomous and was installed at 2 intersections in the city of Bishkek.
-        Skills: <mark>C++</mark> <mark>OpenCV</mark> <mark>Ubuntu</mark> <mark>Cmake</mark> <mark>Algorithms</mark> <mark>Arduino</mark> <mark>CubiBoard A20</mark> <mark>Gmock</mark> <mark>Hogdescriptor</mark> <mark>Multithreading</mark> <mark>Networking</mark> 
+
+        Skills: <mark>C++</mark> <mark>OpenCV</mark> <mark>Ubuntu</mark> <mark>Cmake</mark> <mark>Algorithms</mark> <mark>Arduino</mark> <mark>CubiBoard A20</mark> <mark>Gmock</mark> <mark>Hogdescriptor</mark> <mark>Multithreading</mark> <mark>Networking</mark>
+          
           ![](/images/projects/ped_hog.png){: width="80%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
           ![](/images/projects/sign.png){: width="80%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
           ![](/images/projects/sign_blink.png){: width="80%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
