@@ -70,10 +70,10 @@ content:
           The system is completely autonomous and was installed at 2 intersections in the city of Bishkek.
 
         Skills: <mark>C++</mark> <mark>OpenCV</mark> <mark>Ubuntu</mark> <mark>Cmake</mark> <mark>Algorithms</mark> <mark>Arduino</mark> <mark>CubiBoard A20</mark> <mark>Gmock</mark> <mark>Hogdescriptor</mark> <mark>Multithreading</mark> <mark>Networking</mark>
-          
-          ![](/images/projects/ped_hog.png){: width="80%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
-          ![](/images/projects/sign.png){: width="80%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
-          ![](/images/projects/sign_blink.png){: width="80%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
+                  
+          ![](/images/projects/ped_hog.png){:width="80%"}{:style="display:block; margin-left:auto; margin-right:auto;"}
+          ![](/images/projects/sign.png){:width="80%"}{:style="display:block; margin-left:auto; margin-right:auto;"}
+          ![](/images/projects/sign_blink.png){:width="80%"}{:style="display:block; margin-left:auto; margin-right:auto;"}
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -81,7 +81,7 @@ content:
       - layout: left
         title: Pepex company
         link: pepex.kg
-        # link_text: boringcompany.com
+        # link_text: pepex.kg
         sub_title: Software engineer
         caption: November 2018 - Present
         quote: >
